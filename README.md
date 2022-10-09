@@ -1,5 +1,6 @@
-# Discord notification bot
-Clubhouse API
+# Clubhouse mobile app APIs
+
+Here are some of the most useful APIs of the Clubhouse mobile application
 
 ## How to join to channel:
 - 1-Open index.php
